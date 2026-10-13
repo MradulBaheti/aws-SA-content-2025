@@ -1,0 +1,17 @@
+Public IPv4 address
+
+54.245.193.130
+
+
+Private IPv4 addresses
+10.10.2.15
+
+
+
+
+Public IPv4 address
+
+54.188.45.107
+
+Private IPv4 addresses
+10.10.2.49

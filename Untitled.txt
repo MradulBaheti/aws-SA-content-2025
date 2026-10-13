@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+use -p in bzip2 tar 
+
+pipeline issue broken 
+
+yum install bzip
+yum install gzip
+check for container troubleshoot''
+
+
